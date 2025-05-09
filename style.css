@@ -1,0 +1,66 @@
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 40%;
+    padding-bottom: 30%;
+}
+/* .btn{
+   border-color: red;
+   box-shadow: inset;
+   
+} */
+.Red{
+    padding: 15px 30px;
+    border-radius: 1.5rem;
+    background-color: red;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.Yellow{
+     padding: 15px 30px;
+    border-radius: 1.5rem;
+    background-color: yellow;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.Black{
+     padding: 15px 30px;
+    border-radius: 1.5rem;
+    background-color: black;
+    font-size: 1.5rem;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.Purple{
+     padding: 15px 30px;
+    border-radius: 1.5rem;
+    background-color: purple;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.Green{
+     padding: 15px 30px;
+    border-radius: 1.5rem;
+    background-color: green;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.Blue{
+     padding: 15px 30px;
+    border-radius: 1.5rem;
+    background-color: blue;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.Default{
+     padding: 15px 30px;
+    border-radius: 1.5rem;
+    background-color: orangered;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
